@@ -1,6 +1,6 @@
-customhost = "employee.cnmmb1xzwoxd.ap-south-1.rds.amazonaws.com"
+customhost = "********"
 customuser = "admin"
-custompass = "rushikesh"
+custompass = "******"
 customdb = "employee"
 custombucket = "projectemployee"
 customregion = "ap-south-1b"
